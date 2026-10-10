@@ -1,0 +1,63 @@
+eval at episode=250: mean_reward=6.72 mean_pipes=0.60 best=-inf
+SAVED new best eval=6.72 pipes=0.60 at episode=250
+eval at episode=500: mean_reward=3.24 mean_pipes=0.00 best=6.72
+eval at episode=750: mean_reward=5.04 mean_pipes=0.20 best=6.72
+eval at episode=1000: mean_reward=7.60 mean_pipes=1.00 best=6.72
+SAVED new best eval=7.60 pipes=1.00 at episode=1000
+eval at episode=1250: mean_reward=7.42 mean_pipes=0.80 best=7.60
+eval at episode=1500: mean_reward=8.62 mean_pipes=1.00 best=7.60
+SAVED new best eval=8.62 pipes=1.00 at episode=1500
+eval at episode=1750: mean_reward=10.10 mean_pipes=1.60 best=8.62
+SAVED new best eval=10.10 pipes=1.60 at episode=1750
+eval at episode=2000: mean_reward=9.86 mean_pipes=1.40 best=10.10
+eval at episode=2250: mean_reward=7.38 mean_pipes=1.00 best=10.10
+eval at episode=250: mean_reward=4.08 mean_pipes=0.00 best=10.10
+eval at episode=500: mean_reward=3.90 mean_pipes=0.00 best=10.10
+eval at episode=750: mean_reward=11.80 mean_pipes=1.80 best=10.10
+SAVED new best eval=11.80 pipes=1.80 at episode=750
+eval at episode=1000: mean_reward=9.64 mean_pipes=1.60 best=11.80
+eval at episode=1250: mean_reward=18.00 mean_pipes=3.20 best=11.80
+SAVED new best eval=18.00 pipes=3.20 at episode=1250
+eval at episode=1500: mean_reward=20.22 mean_pipes=3.40 best=18.00
+SAVED new best eval=20.22 pipes=3.40 at episode=1500
+eval at episode=1750: mean_reward=16.06 mean_pipes=3.00 best=20.22
+eval at episode=2000: mean_reward=32.20 mean_pipes=6.20 best=20.22
+SAVED new best eval=32.20 pipes=6.20 at episode=2000
+eval at episode=2250: mean_reward=10.26 mean_pipes=1.40 best=32.20
+eval at episode=2500: mean_reward=16.56 mean_pipes=3.00 best=32.20
+eval at episode=2750: mean_reward=11.70 mean_pipes=1.80 best=32.20
+eval at episode=3000: mean_reward=18.20 mean_pipes=3.40 best=32.20
+eval at episode=3250: mean_reward=14.12 mean_pipes=2.20 best=32.20
+eval at episode=3500: mean_reward=5.70 mean_pipes=0.40 best=32.20
+eval at episode=3750: mean_reward=4.36 mean_pipes=0.20 best=32.20
+eval at episode=4000: mean_reward=31.50 mean_pipes=6.20 best=32.20
+eval at episode=4250: mean_reward=4.36 mean_pipes=0.20 best=32.20
+eval at episode=4500: mean_reward=15.76 mean_pipes=2.80 best=32.20
+eval at episode=4750: mean_reward=11.46 mean_pipes=1.80 best=32.20
+eval at episode=5000: mean_reward=20.18 mean_pipes=3.80 best=32.20
+eval at episode=5250: mean_reward=8.06 mean_pipes=1.00 best=32.20
+eval at episode=5500: mean_reward=12.70 mean_pipes=2.00 best=32.20
+eval at episode=5750: mean_reward=15.10 mean_pipes=2.40 best=32.20
+eval at episode=6000: mean_reward=28.92 mean_pipes=5.40 best=32.20
+eval at episode=6250: mean_reward=2.00 mean_pipes=0.00 best=32.20
+eval at episode=6500: mean_reward=30.90 mean_pipes=6.00 best=32.20
+eval at episode=6750: mean_reward=17.92 mean_pipes=3.20 best=32.20
+eval at episode=7000: mean_reward=59.88 mean_pipes=12.20 best=32.20
+SAVED new best eval=59.88 pipes=12.20 at episode=7000
+eval at episode=7250: mean_reward=11.10 mean_pipes=1.80 best=59.88
+eval at episode=7500: mean_reward=13.48 mean_pipes=2.20 best=59.88
+eval at episode=7750: mean_reward=9.48 mean_pipes=1.20 best=59.88
+eval at episode=8000: mean_reward=3.90 mean_pipes=0.00 best=59.88
+eval at episode=8250: mean_reward=9.80 mean_pipes=1.40 best=59.88
+eval at episode=8500: mean_reward=8.70 mean_pipes=1.00 best=59.88
+eval at episode=8750: mean_reward=23.56 mean_pipes=4.20 best=59.88
+eval at episode=9000: mean_reward=3.90 mean_pipes=0.00 best=59.88
+eval at episode=9250: mean_reward=3.60 mean_pipes=0.20 best=59.88
+eval at episode=9500: mean_reward=7.98 mean_pipes=1.00 best=59.88
+eval at episode=9750: mean_reward=12.80 mean_pipes=2.20 best=59.88
+eval at episode=10000: mean_reward=25.24 mean_pipes=4.60 best=59.88
+eval at episode=10250: mean_reward=21.68 mean_pipes=4.00 best=59.88
+eval at episode=10500: mean_reward=8.40 mean_pipes=1.00 best=59.88
+eval at episode=10750: mean_reward=34.50 mean_pipes=6.60 best=59.88
+eval at episode=11000: mean_reward=6.70 mean_pipes=0.80 best=59.88
+eval at episode=11250: mean_reward=48.72 mean_pipes=9.80 best=59.88
